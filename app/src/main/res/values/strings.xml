@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_day">Day Report</string>
+    <string name="title_week">Week Report</string>
+    <string name="title_my">My</string>
+</resources>
