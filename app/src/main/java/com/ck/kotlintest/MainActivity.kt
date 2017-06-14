@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
             R.id.navigation_my -> {
                 viewPager!!.setCurrentItem(3, true)
                 return@OnNavigationItemSelectedListener true
+
             }
         }
         false
