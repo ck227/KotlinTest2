@@ -14,6 +14,9 @@ class MainAdapter(fm: FragmentManager, val mFragments: List<Fragment>) : Fragmen
     }
 
     override fun getCount(): Int {
+
+
+
         return mFragments.size
     }
 
